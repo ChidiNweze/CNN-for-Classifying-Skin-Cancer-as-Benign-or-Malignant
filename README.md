@@ -15,7 +15,7 @@ TOOLS USED
 
 * Made in a Jupyter notebook
 * matplotlib for peeking at the photos and visualizing cross entropy loss and accuracy (in graphs also uploaded as a .png to the repository)
-* Keras,especially it's preprocessing library which made everything a whole lot easier and quicker
+* Keras, especially it's preprocessing library which made everything a whole lot easier and quicker
 * Tensorflow
 
 

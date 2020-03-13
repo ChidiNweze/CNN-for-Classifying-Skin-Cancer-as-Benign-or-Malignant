@@ -23,6 +23,10 @@ TECHNIQUES USED
 
 Used dropout and horizontally flipped the images in the dataset to improve accuracy.
 
+ISSUES FACED
+
+I still can't figure out how to save my model with model.save(filepath) from Keras. Any help on that would be amazing. Also, I really had to fiddle with the dropout weights to get a desirable number for accuracy. Some more background on dropout may give me greater intuition for hyperperameter tuning in the future.
+
 
 FUTURE?
 

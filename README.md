@@ -1,5 +1,5 @@
 # CNN-for-Classifying-Skin-Cancer-as-Benign-or-Malignant
-A simple convolutional neural network for classifying skin cancer as benign or malignant made with Keras and TensorFlow. 
+A simple CNN that achieves and accuracy of 81.212% for classifying skin cancer as benign or malignant. Made with Keras and TensorFlow. 
 
 ACKNOWLEDGEMENTS
 
@@ -18,6 +18,10 @@ TOOLS USED
 * matplotlib for peeking at the photos and visualizing cross entropy loss and accuracy (in graphs also uploaded as a .png to the repository)
 * Keras, especially it's preprocessing library which made everything a whole lot easier and quicker
 * Tensorflow
+
+TECHNIQUES USED
+
+Used dropout and horizontally flipped the images in the dataset to improve accuracy.
 
 
 FUTURE?

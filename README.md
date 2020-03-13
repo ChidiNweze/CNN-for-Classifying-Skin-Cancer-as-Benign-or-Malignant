@@ -5,6 +5,7 @@ ACKNOWLEDGEMENTS
 
 The original source of the data can be found here: https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
 Much of the tools and techniques I used for this project can be found here: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
+
 Jason Brownlee really has an amazing website for tutorials, so be sure to check out Machine Learning Mastery (he also writes books).
 
 MOTIVATION & GOALS
